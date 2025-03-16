@@ -34,3 +34,5 @@ pip install pillow
 ```
 
 tkinter通常随Python一起安装，无需单独安装。
+
+![123](https://github.com/user-attachments/assets/4fc5e21b-b3aa-46cb-b0bf-f9a757b6ead5)
